@@ -1,0 +1,7 @@
+#Practical Defense Security
+SOC - Security Operations Centr
+SIEM - Security Information and Event Management
+Gathers information on any security incident. 
+AbuseIPDB, Cisco Talos Intelligence - IP address liability checker.
+After confirming with the people above you add the malicious IP to the Firewall Block List.
+
